@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+data/cataluya.2017-10-27_17
+Clear_Files/
+twitter_test.py
+credentials.py
+clear_data_noUpdate/
+data_noGit/

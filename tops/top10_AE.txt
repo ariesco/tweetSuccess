@@ -1,0 +1,1190 @@
+{
+	"_id" : ObjectId("5a83618a9f418a214470c45a"),
+	"RS" : 171.99553571428572,
+	"favorite_count" : 20122,
+	"visibility_value" : 115,
+	"coordinates" : null,
+	"retweet_count" : 18356,
+	"created_at" : "Sun Oct 01 17:08:02 +0000 2017",
+	"replyTo" : null,
+	"characters" : 73,
+	"visibility_count_RT" : 0,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/PKpL0h7bSR",
+			"display_url" : "pic.twitter.com/PKpL0h7bSR",
+			"id" : NumberLong("914537266940346368"),
+			"sizes" : {
+				"medium" : {
+					"resize" : "fit",
+					"w" : 480,
+					"h" : 848
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 340,
+					"h" : 601
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 480,
+					"h" : 848
+				},
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				}
+			},
+			"id_str" : "914537266940346368",
+			"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/914537266940346368/pu/img/1u2LUGdBn-Ohla9u.jpg",
+			"expanded_url" : "https://twitter.com/RafaVidalCasas/status/914537401984458752/video/1",
+			"indices" : [
+				74,
+				97
+			],
+			"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/914537266940346368/pu/img/1u2LUGdBn-Ohla9u.jpg"
+		}
+	],
+	"tweetId" : NumberLong("914537401984458752"),
+	"reply_count" : 745,
+	"text" : "#CatalanRederendum otro votante del NO acosado y violentado por los de Sí https://t.co/PKpL0h7bSR",
+	"visibility_count_reply" : 0,
+	"terms_count" : 12,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "000000",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/901179549559468032/FLfJ7ZK__normal.jpg",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme6/bg.gif",
+		"screen_name" : "RafaVidalCasas",
+		"profile_text_color" : "000000",
+		"id_str" : "238952242",
+		"location" : null,
+		"profile_sidebar_border_color" : "000000",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 1221,
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme6/bg.gif",
+		"friends_count" : 428,
+		"following" : null,
+		"followers_count" : 112,
+		"contributors_enabled" : false,
+		"created_at" : "Sun Jan 16 12:34:05 +0000 2011",
+		"name" : "Rafael Vidal",
+		"listed_count" : 7,
+		"geo_enabled" : false,
+		"protected" : false,
+		"utc_offset" : 7200,
+		"profile_link_color" : "FF691F",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 3792,
+		"time_zone" : "Madrid",
+		"description" : "They can chew you up, but they gotta spit you back out",
+		"id" : 238952242,
+		"profile_background_color" : "000000",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/901179549559468032/FLfJ7ZK__normal.jpg",
+		"profile_use_background_image" : false,
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/238952242/1458838179"
+	},
+	"quote_count" : 535,
+	"mentions" : [ ],
+	"hashtags" : [
+		{
+			"text" : "CatalanRederendum",
+			"indices" : [
+				0,
+				18
+			]
+		}
+	],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 167.50869565217388,
+	"PD" : 1,
+	"MD" : 1,
+	"RSA_normalized" : 1,
+	"AVG_M" : 0.5000453089430827,
+	"MD_normalized" : 0.00009214891264283081,
+	"visibility_value_normalized" : 0.0000018825922798033716,
+	"RS_normalized" : 1,
+	"PD_normalized" : 0.00008908685968819599
+}
+{
+	"_id" : ObjectId("5a8360f09f418a214470b312"),
+	"RS" : 42.59515570934256,
+	"favorite_count" : 6866,
+	"visibility_value" : 351,
+	"coordinates" : null,
+	"retweet_count" : 11581,
+	"created_at" : "Mon Oct 09 16:32:36 +0000 2017",
+	"replyTo" : null,
+	"characters" : 134,
+	"visibility_count_RT" : 0,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/99Y8N0cBR8",
+			"display_url" : "pic.twitter.com/99Y8N0cBR8",
+			"id" : NumberLong("917427534307954688"),
+			"sizes" : {
+				"medium" : {
+					"resize" : "fit",
+					"w" : 900,
+					"h" : 1200
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 510,
+					"h" : 680
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 1200,
+					"h" : 1600
+				},
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				}
+			},
+			"id_str" : "917427534307954688",
+			"media_url" : "http://pbs.twimg.com/media/DLtbe1GWkAAiJQG.jpg",
+			"expanded_url" : "https://twitter.com/titofero/status/917427588909367296/photo/1",
+			"indices" : [
+				135,
+				158
+			],
+			"media_url_https" : "https://pbs.twimg.com/media/DLtbe1GWkAAiJQG.jpg"
+		}
+	],
+	"tweetId" : NumberLong("917427588909367296"),
+	"reply_count" : 572,
+	"text" : "Van a aplicarme la Ley Mordaza, people, solo por decir que actuaron de manera desproporcionada puestos hasta arriba de coca. Qué mieo. https://t.co/99Y8N0cBR8",
+	"visibility_count_reply" : 0,
+	"terms_count" : 22,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/917643130761043969/HTFDyuNC_normal.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/637547472655654912/RyNnb4kL.jpg",
+		"screen_name" : "titofero",
+		"profile_text_color" : "333333",
+		"id_str" : "2572596338",
+		"location" : "Puerto Hurraco",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 3613,
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/637547472655654912/RyNnb4kL.jpg",
+		"friends_count" : 192,
+		"following" : null,
+		"followers_count" : 289,
+		"contributors_enabled" : false,
+		"created_at" : "Tue Jun 17 09:36:44 +0000 2014",
+		"name" : "Alfredo Izquierdo",
+		"listed_count" : 1,
+		"geo_enabled" : false,
+		"protected" : false,
+		"utc_offset" : 7200,
+		"profile_link_color" : "2E5080",
+		"url" : "http://www.alfredoizquierdo.com/",
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 5168,
+		"time_zone" : "Madrid",
+		"description" : "Misantropía incierta.",
+		"id" : NumberLong("2572596338"),
+		"profile_background_color" : "4F8AA8",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/917643130761043969/HTFDyuNC_normal.jpg",
+		"profile_use_background_image" : true,
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2572596338/1496922353"
+	},
+	"quote_count" : 443,
+	"mentions" : [ ],
+	"hashtags" : [ ],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : true,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 35.07122507122507,
+	"PD" : 5,
+	"MD" : 3,
+	"RSA_normalized" : 0.2093695789026337,
+	"AVG_M" : 0.11443603548136833,
+	"MD_normalized" : 0.00027644673792849247,
+	"visibility_value_normalized" : 0.000005745999045312899,
+	"RS_normalized" : 0.2476526819864701,
+	"PD_normalized" : 0.00044543429844097997
+}
+{
+	"_id" : ObjectId("5a83712b9f418a214472b576"),
+	"RS" : 18.430434782608696,
+	"favorite_count" : 1137,
+	"visibility_value" : 124,
+	"coordinates" : null,
+	"retweet_count" : 1606,
+	"created_at" : "Wed Oct 04 22:32:41 +0000 2017",
+	"replyTo" : null,
+	"characters" : 105,
+	"visibility_count_RT" : 0,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/U0w7G8J5Dc",
+			"display_url" : "pic.twitter.com/U0w7G8J5Dc",
+			"id" : NumberLong("915705665489969152"),
+			"sizes" : {
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 340,
+					"h" : 255
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 800,
+					"h" : 600
+				},
+				"medium" : {
+					"resize" : "fit",
+					"w" : 600,
+					"h" : 450
+				}
+			},
+			"id_str" : "915705665489969152",
+			"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/915705665489969152/pu/img/_9ngi-9YjLoppaop.jpg",
+			"expanded_url" : "https://twitter.com/Bitganancias/status/915706266298798080/video/1",
+			"indices" : [
+				106,
+				129
+			],
+			"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/915705665489969152/pu/img/_9ngi-9YjLoppaop.jpg"
+		}
+	],
+	"tweetId" : NumberLong("915706266298798080"),
+	"reply_count" : 287,
+	"text" : "#UnaSolucionParaCat Me encanta como te cierran el negocio y sus razones, todo muy democrático y pacífico. https://t.co/U0w7G8J5Dc",
+	"visibility_count_reply" : 0,
+	"terms_count" : 16,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/510170160074727424/Pe83B-P4_normal.png",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"screen_name" : "Bitganancias",
+		"profile_text_color" : "333333",
+		"id_str" : "2767003114",
+		"location" : null,
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 229,
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"friends_count" : 74,
+		"following" : null,
+		"followers_count" : 115,
+		"contributors_enabled" : false,
+		"created_at" : "Thu Sep 11 08:03:33 +0000 2014",
+		"name" : "Saulan",
+		"listed_count" : 6,
+		"geo_enabled" : false,
+		"protected" : false,
+		"utc_offset" : -25200,
+		"profile_link_color" : "1DA1F2",
+		"url" : "http://bitganancias.com/",
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 12,
+		"time_zone" : "Pacific Time (US & Canada)",
+		"description" : null,
+		"id" : NumberLong("2767003114"),
+		"profile_background_color" : "C0DEED",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/510170160074727424/Pe83B-P4_normal.png",
+		"profile_use_background_image" : true,
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"lang" : "es"
+	},
+	"quote_count" : 370,
+	"mentions" : [ ],
+	"hashtags" : [
+		{
+			"text" : "UnaSolucionParaCat",
+			"indices" : [
+				0,
+				19
+			]
+		}
+	],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 17.092741935483872,
+	"PD" : 1,
+	"MD" : 1,
+	"RSA_normalized" : 0.10204092312303815,
+	"AVG_M" : 0.052344657688544634,
+	"MD_normalized" : 0.00009214891264283081,
+	"visibility_value_normalized" : 0.0000020299255886575486,
+	"RS_normalized" : 0.10715647185880935,
+	"PD_normalized" : 0.00008908685968819599
+}
+{
+	"_id" : ObjectId("5a8372629f418a214472d57c"),
+	"RS" : 15.374178123132097,
+	"favorite_count" : 25922,
+	"visibility_value" : 1740,
+	"coordinates" : null,
+	"retweet_count" : 20773,
+	"created_at" : "Tue Oct 10 13:54:52 +0000 2017",
+	"replyTo" : null,
+	"characters" : 54,
+	"visibility_count_RT" : 0,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/8HFeAsfWgv",
+			"display_url" : "pic.twitter.com/8HFeAsfWgv",
+			"id" : NumberLong("917750266035953666"),
+			"sizes" : {
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 680,
+					"h" : 652
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 1080,
+					"h" : 1036
+				},
+				"medium" : {
+					"resize" : "fit",
+					"w" : 1080,
+					"h" : 1036
+				}
+			},
+			"id_str" : "917750266035953666",
+			"media_url" : "http://pbs.twimg.com/media/DLyBASeX4AIO_dX.jpg",
+			"expanded_url" : "https://twitter.com/Vitalisioo/status/917750281055633408/photo/1",
+			"indices" : [
+				55,
+				78
+			],
+			"media_url_https" : "https://pbs.twimg.com/media/DLyBASeX4AIO_dX.jpg"
+		}
+	],
+	"tweetId" : NumberLong("917750281055633408"),
+	"reply_count" : 473,
+	"text" : "RT si la ves gris y celeste\nMG si la ves rosa y blanca https://t.co/8HFeAsfWgv",
+	"visibility_count_reply" : 0,
+	"terms_count" : 14,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "regular",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/909569779949764608/pP3tGpfp_normal.jpg",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"screen_name" : "Vitalisioo",
+		"profile_text_color" : "333333",
+		"id_str" : "1059874076",
+		"location" : "Los Barrios, Cádiz",
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 92574,
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"friends_count" : 371,
+		"following" : null,
+		"followers_count" : 1668,
+		"contributors_enabled" : false,
+		"created_at" : "Fri Jan 04 08:12:37 +0000 2013",
+		"name" : "Julio ☭",
+		"listed_count" : 47,
+		"geo_enabled" : true,
+		"protected" : false,
+		"utc_offset" : 10800,
+		"profile_link_color" : "4A913C",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 69172,
+		"time_zone" : "Athens",
+		"description" : "Soy buen chaval a veces. 24/7",
+		"id" : 1059874076,
+		"profile_background_color" : "C0DEED",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/909569779949764608/pP3tGpfp_normal.jpg",
+		"profile_use_background_image" : true,
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1059874076/1505693309"
+	},
+	"quote_count" : 4665,
+	"mentions" : [ ],
+	"hashtags" : [ ],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 14.755459770114943,
+	"PD" : 3,
+	"MD" : 2,
+	"RSA_normalized" : 0.08808772411883711,
+	"AVG_M" : 0.04448158977699035,
+	"MD_normalized" : 0.00018429782528566163,
+	"visibility_value_normalized" : 0.000028484439711807537,
+	"RS_normalized" : 0.08938707658477404,
+	"PD_normalized" : 0.00026726057906458796
+}
+{
+	"_id" : ObjectId("5a83698c9f418a214471cb7b"),
+	"RS" : 18.344045368620037,
+	"favorite_count" : 10648,
+	"visibility_value" : 764,
+	"coordinates" : null,
+	"retweet_count" : 9361,
+	"created_at" : "Mon Oct 02 10:11:25 +0000 2017",
+	"replyTo" : null,
+	"characters" : 98,
+	"visibility_count_RT" : 0,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/POGAgqoAHL",
+			"display_url" : "pic.twitter.com/POGAgqoAHL",
+			"id" : NumberLong("914794843515314176"),
+			"sizes" : {
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 340,
+					"h" : 187
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 640,
+					"h" : 352
+				},
+				"medium" : {
+					"resize" : "fit",
+					"w" : 600,
+					"h" : 330
+				}
+			},
+			"id_str" : "914794843515314176",
+			"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/914794843515314176/pu/img/TRw-U5PY0ZOqyFwS.jpg",
+			"expanded_url" : "https://twitter.com/teresarvega/status/914794945042579461/video/1",
+			"indices" : [
+				99,
+				122
+			],
+			"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/914794843515314176/pu/img/TRw-U5PY0ZOqyFwS.jpg"
+		}
+	],
+	"tweetId" : NumberLong("914794945042579461"),
+	"reply_count" : 328,
+	"text" : "Los trabajadores de TVE sentimos vergüenza por el tratamiento informativo del #1-O @CdItve @CdiRNE https://t.co/POGAgqoAHL",
+	"visibility_count_reply" : 0,
+	"terms_count" : 14,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/2781424677/b52e2db713db6dccc9fbf0ca3f6c3a4c_normal.jpeg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/541149163337961472/vKb2ZzaB.jpeg",
+		"screen_name" : "teresarvega",
+		"profile_text_color" : "333333",
+		"id_str" : "227772460",
+		"location" : "Madrid, España",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 4678,
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/541149163337961472/vKb2ZzaB.jpeg",
+		"friends_count" : 173,
+		"following" : null,
+		"followers_count" : 529,
+		"contributors_enabled" : false,
+		"created_at" : "Fri Dec 17 19:31:53 +0000 2010",
+		"name" : "teresa rodriguez",
+		"listed_count" : 21,
+		"geo_enabled" : true,
+		"protected" : false,
+		"utc_offset" : null,
+		"profile_link_color" : "0084B4",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 1005,
+		"time_zone" : null,
+		"description" : "Periodista de TVE, defensora de los animales (y por supuesto de las personas).",
+		"id" : 227772460,
+		"profile_background_color" : "C0DEED",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/2781424677/b52e2db713db6dccc9fbf0ca3f6c3a4c_normal.jpeg",
+		"profile_use_background_image" : true,
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/227772460/1381689444"
+	},
+	"quote_count" : 179,
+	"mentions" : [
+		{
+			"id_str" : "402898437",
+			"id" : 402898437,
+			"name" : "C.Informativos TVE",
+			"screen_name" : "CdItve",
+			"indices" : [
+				83,
+				90
+			]
+		},
+		{
+			"id_str" : "3087178760",
+			"id" : NumberLong("3087178760"),
+			"name" : "C.Informativos RNE",
+			"screen_name" : "CdiRNE",
+			"indices" : [
+				91,
+				98
+			]
+		}
+	],
+	"hashtags" : [ ],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 12.701570680628274,
+	"PD" : 2,
+	"MD" : 1.5,
+	"RSA_normalized" : 0.07582633624586663,
+	"AVG_M" : 0.045699232030380586,
+	"MD_normalized" : 0.00013822336896424624,
+	"visibility_value_normalized" : 0.000012506960884954573,
+	"RS_normalized" : 0.10665419478731508,
+	"PD_normalized" : 0.00017817371937639198
+}
+{
+	"_id" : ObjectId("5a835b0f9f418a21446fc685"),
+	"RS" : 32.5,
+	"favorite_count" : 165,
+	"visibility_value" : 6,
+	"coordinates" : null,
+	"retweet_count" : 48,
+	"created_at" : "Tue Oct 10 08:23:15 +0000 2017",
+	"replyTo" : null,
+	"characters" : 132,
+	"visibility_count_RT" : 1,
+	"media" : null,
+	"tweetId" : NumberLong("917666827945349120"),
+	"reply_count" : 30,
+	"text" : "#DuiARV Cataluña es el niño que hemos malcriado para que nos dejara tranquilos y cuando nos hemos dado cuenta tenemos un hijo tirano",
+	"visibility_count_reply" : 0,
+	"terms_count" : 23,
+	"isReply" : false,
+	"visibility_count_quote" : 0,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+		"profile_background_image_url_https" : "",
+		"screen_name" : "NoPlebeyo",
+		"profile_text_color" : "333333",
+		"id_str" : "832671623320723457",
+		"location" : null,
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 22,
+		"profile_background_image_url" : "",
+		"friends_count" : 8,
+		"following" : null,
+		"followers_count" : 2,
+		"contributors_enabled" : false,
+		"created_at" : "Fri Feb 17 19:22:40 +0000 2017",
+		"name" : "Alrm",
+		"listed_count" : 0,
+		"geo_enabled" : false,
+		"protected" : false,
+		"utc_offset" : null,
+		"profile_link_color" : "1DA1F2",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 1,
+		"time_zone" : null,
+		"description" : null,
+		"id" : NumberLong("832671623320723457"),
+		"profile_background_color" : "F5F8FA",
+		"profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+		"profile_use_background_image" : true,
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"lang" : "es"
+	},
+	"quote_count" : 2,
+	"mentions" : [ ],
+	"hashtags" : [
+		{
+			"text" : "DuiARV",
+			"indices" : [
+				0,
+				7
+			]
+		}
+	],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 10.833333333333334,
+	"PD" : 1,
+	"MD" : 1,
+	"RSA_normalized" : 0.06467325944575666,
+	"AVG_M" : 0.06345322200837897,
+	"MD_normalized" : 0.00009214891264283081,
+	"visibility_value_normalized" : 9.822220590278461e-8,
+	"RS_normalized" : 0.18895839281542814,
+	"PD_normalized" : 0.00008908685968819599
+}
+{
+	"_id" : ObjectId("5a838a269f418a214475b364"),
+	"RS" : 26.002475247524757,
+	"favorite_count" : 4770,
+	"visibility_value" : 525,
+	"coordinates" : null,
+	"retweet_count" : 5176,
+	"created_at" : "Tue Oct 10 18:03:13 +0000 2017",
+	"replyTo" : null,
+	"characters" : 86,
+	"visibility_count_RT" : 0,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/6Zj41fysBU",
+			"display_url" : "pic.twitter.com/6Zj41fysBU",
+			"id" : NumberLong("917812722020085760"),
+			"sizes" : {
+				"medium" : {
+					"resize" : "fit",
+					"w" : 600,
+					"h" : 338
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 340,
+					"h" : 191
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 1024,
+					"h" : 576
+				},
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				}
+			},
+			"id_str" : "917812722020085760",
+			"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/917812722020085760/pu/img/DRFjVbwOUW66EdJg.jpg",
+			"expanded_url" : "https://twitter.com/simonRmoar/status/917812778886451202/video/1",
+			"indices" : [
+				87,
+				110
+			],
+			"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/917812722020085760/pu/img/DRFjVbwOUW66EdJg.jpg"
+		}
+	],
+	"tweetId" : NumberLong("917812778886451202"),
+	"reply_count" : 29,
+	"text" : "Catalanes: ¿Pero vamos a seguir siendo parte de España?\nPuigdemont:\n#10Oct #Puigdemont https://t.co/6Zj41fysBU",
+	"visibility_count_reply" : 0,
+	"terms_count" : 12,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/849313285652570113/jikT73rY_normal.jpg",
+		"profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/438765636110413824/n2C8g9zC.jpeg",
+		"screen_name" : "simonRmoar",
+		"profile_text_color" : "333333",
+		"id_str" : "1092219302",
+		"location" : "Knowhere",
+		"profile_sidebar_border_color" : "FFFFFF",
+		"profile_background_tile" : true,
+		"follow_request_sent" : null,
+		"statuses_count" : 2552,
+		"profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/438765636110413824/n2C8g9zC.jpeg",
+		"friends_count" : 221,
+		"following" : null,
+		"followers_count" : 202,
+		"contributors_enabled" : false,
+		"created_at" : "Tue Jan 15 14:18:46 +0000 2013",
+		"name" : "Moar",
+		"listed_count" : 2,
+		"geo_enabled" : true,
+		"protected" : false,
+		"utc_offset" : 7200,
+		"profile_link_color" : "FA743E",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 2146,
+		"time_zone" : "Amsterdam",
+		"description" : "You know the drill",
+		"id" : 1092219302,
+		"profile_background_color" : "131516",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/849313285652570113/jikT73rY_normal.jpg",
+		"profile_use_background_image" : true,
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/1092219302/1491327076"
+	},
+	"quote_count" : 62,
+	"mentions" : [ ],
+	"hashtags" : [
+		{
+			"text" : "10Oct",
+			"indices" : [
+				68,
+				74
+			]
+		},
+		{
+			"text" : "Puigdemont",
+			"indices" : [
+				75,
+				86
+			]
+		}
+	],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 10.004761904761905,
+	"PD" : 2,
+	"MD" : 1.5,
+	"RSA_normalized" : 0.0597268211408944,
+	"AVG_M" : 0.052806080957272065,
+	"MD_normalized" : 0.00013822336896424624,
+	"visibility_value_normalized" : 0.000008594443016493652,
+	"RS_normalized" : 0.15118110559985323,
+	"PD_normalized" : 0.00017817371937639198
+}
+{
+	"_id" : ObjectId("5a8383ba9f418a214474eb81"),
+	"RS" : 22.38082901554404,
+	"favorite_count" : 6734,
+	"visibility_value" : 482,
+	"coordinates" : null,
+	"retweet_count" : 4047,
+	"created_at" : "Sun Oct 01 17:26:00 +0000 2017",
+	"replyTo" : null,
+	"characters" : 59,
+	"visibility_count_RT" : 1,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/OqtbpXw6sm",
+			"display_url" : "pic.twitter.com/OqtbpXw6sm",
+			"id" : NumberLong("914541768846299137"),
+			"sizes" : {
+				"medium" : {
+					"resize" : "fit",
+					"w" : 600,
+					"h" : 1067
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 340,
+					"h" : 604
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 720,
+					"h" : 1280
+				},
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				}
+			},
+			"id_str" : "914541768846299137",
+			"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/914541768846299137/pu/img/-A9lV__kjAn7c3qW.jpg",
+			"expanded_url" : "https://twitter.com/palomandres/status/914541923410628609/video/1",
+			"indices" : [
+				60,
+				83
+			],
+			"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/914541768846299137/pu/img/-A9lV__kjAn7c3qW.jpg"
+		}
+	],
+	"tweetId" : NumberLong("914541923410628609"),
+	"reply_count" : 219,
+	"text" : "Solidaridad con Catalunya desde Sevilla. #CatalanReferendum https://t.co/OqtbpXw6sm",
+	"visibility_count_reply" : 0,
+	"terms_count" : 6,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/737575499510079488/jX6_g7iU_normal.jpg",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"screen_name" : "palomandres",
+		"profile_text_color" : "333333",
+		"id_str" : "244610947",
+		"location" : null,
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 530,
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"friends_count" : 346,
+		"following" : null,
+		"followers_count" : 193,
+		"contributors_enabled" : false,
+		"created_at" : "Sat Jan 29 18:21:56 +0000 2011",
+		"name" : "Paloma Andrés",
+		"listed_count" : 5,
+		"geo_enabled" : true,
+		"protected" : false,
+		"utc_offset" : -36000,
+		"profile_link_color" : "1DA1F2",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 982,
+		"time_zone" : "Hawaii",
+		"description" : "Castellón-Madrid-Sevilla",
+		"id" : 244610947,
+		"profile_background_color" : "C0DEED",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/737575499510079488/jX6_g7iU_normal.jpg",
+		"profile_use_background_image" : true,
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/244610947/1400956645"
+	},
+	"quote_count" : 163,
+	"mentions" : [ ],
+	"hashtags" : [
+		{
+			"text" : "CatalanReferendum",
+			"indices" : [
+				41,
+				59
+			]
+		}
+	],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 8.961618257261412,
+	"PD" : 4,
+	"MD" : 3,
+	"RSA_normalized" : 0.0534994211636028,
+	"AVG_M" : 0.04606417291702565,
+	"MD_normalized" : 0.00027644673792849247,
+	"visibility_value_normalized" : 0.000007890517207523697,
+	"RS_normalized" : 0.13012447632781854,
+	"PD_normalized" : 0.00035634743875278396
+}
+{
+	"_id" : ObjectId("5a838aaa9f418a214475c213"),
+	"RS" : 13.924418604651162,
+	"favorite_count" : 2808,
+	"visibility_value" : 332,
+	"coordinates" : null,
+	"retweet_count" : 2306,
+	"created_at" : "Wed Oct 04 08:59:11 +0000 2017",
+	"replyTo" : null,
+	"characters" : 108,
+	"visibility_count_RT" : 1,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/Y0ZN8huh5G",
+			"display_url" : "pic.twitter.com/Y0ZN8huh5G",
+			"id" : NumberLong("915500758761697280"),
+			"sizes" : {
+				"medium" : {
+					"resize" : "fit",
+					"w" : 600,
+					"h" : 340
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 340,
+					"h" : 192
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 636,
+					"h" : 360
+				},
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				}
+			},
+			"id_str" : "915500758761697280",
+			"media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/915500758761697280/pu/img/Uzz-HYeV2xtG48sC.jpg",
+			"expanded_url" : "https://twitter.com/jmbotanch/status/915501543394349056/video/1",
+			"indices" : [
+				109,
+				132
+			],
+			"media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/915500758761697280/pu/img/Uzz-HYeV2xtG48sC.jpg"
+		}
+	],
+	"tweetId" : NumberLong("915501543394349056"),
+	"reply_count" : 46,
+	"text" : "Morrissey: “Liberad a Catalunya de España. Liberad a los toros de España. Liberad a todo el mundo de España” https://t.co/Y0ZN8huh5G",
+	"visibility_count_reply" : 0,
+	"terms_count" : 19,
+	"isReply" : false,
+	"visibility_count_quote" : 0,
+	"user" : {
+		"profile_sidebar_fill_color" : "292329",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/914976419595288576/nP3l0Pml_normal.jpg",
+		"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+		"screen_name" : "jmbotanch",
+		"profile_text_color" : "D4B415",
+		"id_str" : "282563889",
+		"location" : "Barcelona",
+		"profile_sidebar_border_color" : "EEEEEE",
+		"profile_background_tile" : true,
+		"follow_request_sent" : null,
+		"statuses_count" : 669,
+		"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+		"friends_count" : 309,
+		"following" : null,
+		"followers_count" : 172,
+		"contributors_enabled" : false,
+		"created_at" : "Fri Apr 15 13:06:47 +0000 2011",
+		"name" : "Josep M. Botanch",
+		"listed_count" : 4,
+		"geo_enabled" : true,
+		"protected" : false,
+		"utc_offset" : 7200,
+		"profile_link_color" : "D4B415",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 78,
+		"time_zone" : "Madrid",
+		"description" : "Periodista / Autónomo / “Teníamos todo el impulso; estábamos montados en la cresta de una ola alta y hermosa...” (Hunter S. Thompson)",
+		"id" : 282563889,
+		"profile_background_color" : "000000",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/914976419595288576/nP3l0Pml_normal.jpg",
+		"profile_use_background_image" : true,
+		"default_profile" : false,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/282563889/1506982355"
+	},
+	"quote_count" : 66,
+	"mentions" : [ ],
+	"hashtags" : [ ],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 7.213855421686747,
+	"PD" : 1,
+	"MD" : 1,
+	"RSA_normalized" : 0.04306555784223927,
+	"AVG_M" : 0.03105120425305896,
+	"MD_normalized" : 0.00009214891264283081,
+	"visibility_value_normalized" : 0.000005434962059954081,
+	"RS_normalized" : 0.08095802339766554,
+	"PD_normalized" : 0.00008908685968819599
+}
+{
+	"_id" : ObjectId("5a835e049f418a2144705000"),
+	"RS" : 59.242393509127794,
+	"favorite_count" : 35115,
+	"visibility_value" : 4108,
+	"coordinates" : null,
+	"retweet_count" : 28571,
+	"created_at" : "Tue Oct 03 19:06:03 +0000 2017",
+	"replyTo" : null,
+	"characters" : 38,
+	"visibility_count_RT" : 11,
+	"media" : [
+		{
+			"type" : "photo",
+			"url" : "https://t.co/CZeWYcYKyT",
+			"display_url" : "pic.twitter.com/CZeWYcYKyT",
+			"id" : NumberLong("915291874008666113"),
+			"sizes" : {
+				"thumb" : {
+					"resize" : "crop",
+					"w" : 150,
+					"h" : 150
+				},
+				"small" : {
+					"resize" : "fit",
+					"w" : 570,
+					"h" : 319
+				},
+				"large" : {
+					"resize" : "fit",
+					"w" : 570,
+					"h" : 319
+				},
+				"medium" : {
+					"resize" : "fit",
+					"w" : 570,
+					"h" : 319
+				}
+			},
+			"id_str" : "915291874008666113",
+			"media_url" : "http://pbs.twimg.com/media/DLPFHCgWkAEqRzn.jpg",
+			"expanded_url" : "https://twitter.com/aliado_soy/status/915291878123347968/photo/1",
+			"indices" : [
+				39,
+				62
+			],
+			"media_url_https" : "https://pbs.twimg.com/media/DLPFHCgWkAEqRzn.jpg"
+		}
+	],
+	"tweetId" : NumberLong("915291878123347968"),
+	"reply_count" : 102,
+	"text" : "Maldita seas catalunya la ornitorrinca https://t.co/CZeWYcYKyT",
+	"visibility_count_reply" : 0,
+	"terms_count" : 5,
+	"isReply" : false,
+	"visibility_count_quote" : 1,
+	"user" : {
+		"profile_sidebar_fill_color" : "DDEEF6",
+		"verified" : false,
+		"translator_type" : "none",
+		"profile_image_url_https" : "https://pbs.twimg.com/profile_images/907444979517325313/D6U94plS_normal.jpg",
+		"profile_background_image_url_https" : "",
+		"screen_name" : "aliado_soy",
+		"profile_text_color" : "333333",
+		"id_str" : "817920705555791873",
+		"location" : null,
+		"profile_sidebar_border_color" : "C0DEED",
+		"profile_background_tile" : false,
+		"follow_request_sent" : null,
+		"statuses_count" : 4161,
+		"profile_background_image_url" : "",
+		"friends_count" : 114,
+		"following" : null,
+		"followers_count" : 494,
+		"contributors_enabled" : false,
+		"created_at" : "Sun Jan 08 02:27:47 +0000 2017",
+		"name" : "booblin sinclair",
+		"listed_count" : 22,
+		"geo_enabled" : false,
+		"protected" : false,
+		"utc_offset" : null,
+		"profile_link_color" : "1DA1F2",
+		"url" : null,
+		"is_translator" : false,
+		"notifications" : null,
+		"favourites_count" : 1159,
+		"time_zone" : null,
+		"description" : "un poco chichinabo",
+		"id" : NumberLong("817920705555791873"),
+		"profile_background_color" : "F5F8FA",
+		"profile_image_url" : "http://pbs.twimg.com/profile_images/907444979517325313/D6U94plS_normal.jpg",
+		"profile_use_background_image" : true,
+		"default_profile" : true,
+		"default_profile_image" : false,
+		"lang" : "es",
+		"profile_banner_url" : "https://pbs.twimg.com/profile_banners/817920705555791873/1492389162"
+	},
+	"quote_count" : 584,
+	"mentions" : [ ],
+	"hashtags" : [ ],
+	"urls" : [ ],
+	"quoteTo" : null,
+	"isLong" : false,
+	"isQuote" : false,
+	"symbols" : [ ],
+	"lang" : "es",
+	"RSA" : 7.1095423563777995,
+	"PD" : 11,
+	"MD" : 11,
+	"RSA_normalized" : 0.042442825601964704,
+	"AVG_M" : 0.09721946988227795,
+	"MD_normalized" : 0.001013638039071139,
+	"visibility_value_normalized" : 0.00006724947030810653,
+	"RS_normalized" : 0.3444414604315058,
+	"PD_normalized" : 0.0009799554565701558
+}
+

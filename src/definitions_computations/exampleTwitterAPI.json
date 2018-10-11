@@ -1,0 +1,858 @@
+{
+	"quoted_status_id": 915580918789701632, 
+	"in_reply_to_screen_name": null, 
+	"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+	"reply_count": 0, 
+	"coordinates": null, 
+	"retweeted": false, 
+	"id_str": "915668126817292288", 
+	"place": null, 
+	"favorited": false, 
+	"text": "RT @sumate_asoc: Pegar a personas indefensas como hizo la @policia y @guardiacivil no es defender,es acabar con los derechos y liber\u2026 ", 
+	"contributors": null, 
+	"retweeted_status": {
+							"quoted_status_id": 915580918789701632, 
+							"in_reply_to_screen_name": null, 
+							"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+							"reply_count": 14, 
+							"coordinates": null, 
+							"retweeted": false, 
+							"id_str": "915636166354972673", 
+							"place": null, 
+							"favorited": false, 
+							"possibly_sensitive": false, 
+							"text": "Pegar a personas indefensas como hizo la @policia y @guardiacivil no es defender,es acabar con los derechos y liber\u2026 https://t.co/yXKG48DNwY", 
+							"contributors": null, 
+							"extended_tweet": {
+												"display_text_range": [0, 132], 
+												"entities": {
+																"urls":	[
+																		{
+																			"expanded_url": "https://twitter.com/enricmillo/status/915580918789701632", 
+																			"display_url": "twitter.com/enricmillo/sta\u2026", 
+																			"indices": [133, 156], 
+																			"url": "https://t.co/QsYYAJ4ow9"
+																		}
+																], 
+																"hashtags": [], 
+																"user_mentions": [
+																					{
+																						"screen_name": "policia", 
+																						"id_str": "23791197", 
+																						"indices": [41, 49], 
+																						"id": 23791197, 
+																						"name": "Polic\u00eda Nacional"
+																					}, 
+																					{
+																						"screen_name": "guardiacivil", 
+																						"id_str": "295608887", 
+																						"indices": [52, 65], 
+																						"id": 295608887, 
+																						"name": "Guardia Civil"
+																					}, 
+																					{
+																						"screen_name": "EnricMillo", 
+																						"id_str": "261172776", 
+																						"indices": [121, 132], 
+																						"id": 261172776, 
+																						"name": "Enric Millo"
+																					}
+																], 
+																"symbols": []
+												}, 
+												"full_text": "Pegar a personas indefensas como hizo la @policia y @guardiacivil no es defender,es acabar con los derechos y libertades @EnricMillo https://t.co/QsYYAJ4ow9"
+							}, 
+							"in_reply_to_user_id_str": null, 
+							"lang": "es", 
+							"truncated": true, 
+							"quoted_status_id_str": "915580918789701632", 
+							"favorite_count": 291, 
+							"in_reply_to_status_id": null, 
+							"entities": {
+											"urls": [
+														{
+															"expanded_url": "https://twitter.com/i/web/status/915636166354972673", 
+															"display_url": "twitter.com/i/web/status/9\u2026", 
+															"indices": [117, 140], 
+															"url": "https://t.co/yXKG48DNwY"
+														}
+											], 
+											"hashtags": [], 
+											"user_mentions": [
+																{
+																	"screen_name": "policia", 
+																	"id_str": "23791197", 
+																	"indices": [41, 49], 
+																	"id": 23791197, 
+																	"name": "Polic\u00eda Nacional"
+																}, 
+																{
+																	"screen_name": "guardiacivil", 
+																	"id_str": "295608887", 
+																	"indices": [52, 65], 
+																	"id": 295608887, 
+																	"name": "Guardia Civil"
+																}
+											], 
+											"symbols": []
+							}, 
+							"in_reply_to_user_id": null, 
+							"quoted_status": {
+												"extended_tweet": {
+																	"extended_entities": {
+																							"media": [
+																										{
+																											"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																											"indices": [141, 164], 
+																											"sizes": {
+																														"thumb": {
+																																	"h": 150, 
+																																	"w": 150, 
+																																	"resize": "crop"
+																														}, 
+																														"medium": {
+																																	"h": 576, 
+																																	"w": 1024, 
+																																	"resize": "fit"
+																														}, 
+																														"large": {
+																																	"h": 576, 
+																																	"w": 1024, 
+																																	"resize": "fit"
+																														}, 
+																														"small": {
+																																	"h": 383, 
+																																	"w": 680, 
+																																	"resize": "fit"
+																														}
+																											}, 
+																											"media_url": "http://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																											"type": "photo", 
+																											"display_url": "pic.twitter.com/BunTSD2prX", 
+																											"media_url_https": "https://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																											"url": "https://t.co/BunTSD2prX", 
+																											"id": 915580903556096000, 
+																											"id_str": "915580903556096000"
+																										}, 
+																										{
+																											"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																											"indices": [141, 164], 
+																											"sizes": {
+																														"large": {
+																																	"h": 764, 
+																																	"w": 1024, 
+																																	"resize": "fit"
+																														}, 
+																														"medium": {
+																																	"h": 764, 
+																																	"w": 1024, 
+																																	"resize": "fit"
+																														}, 
+																														"small": {
+																																	"h": 507, 
+																																	"w": 680, 
+																																	"resize": "fit"
+																														}, 
+																														"thumb": {
+																																	"h": 150, 
+																																	"w": 150, 
+																																	"resize": "crop"
+																														}
+																											}, 
+																											"media_url": "http://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																											"type": "photo", 
+																											"display_url": "pic.twitter.com/BunTSD2prX", 
+																											"media_url_https": "https://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																											"url": "https://t.co/BunTSD2prX", 
+																											"id": 915580903518240768, 
+																											"id_str": "915580903518240768"
+																										}, 
+																										{
+																											"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																											"indices": [141, 164], 
+																											"sizes": {
+																														"small": {
+																																	"h": 509, 
+																																	"w": 680, 
+																																	"resize": "fit"
+																														}, 
+																														"medium": {
+																																	"h": 766, 
+																																	"w": 1024, 
+																																	"resize": "fit"
+																														}, 
+																														"large": {
+																																	"h": 766, 
+																																	"w": 1024, 
+																																	"resize": "fit"
+																														}, 
+																														"thumb": {
+																																	"h": 150, 
+																																	"w": 150, 
+																																	"resize": "crop"
+																														}
+																											}, 
+																											"media_url": "http://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																											"type": "photo", 
+																											"display_url": "pic.twitter.com/BunTSD2prX", 
+																											"media_url_https": "https://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																											"url": "https://t.co/BunTSD2prX", 
+																											"id": 915580903518347264, 
+																											"id_str": "915580903518347264"
+																										}
+																							]
+																	}, 
+																	"display_text_range": [0, 140], 
+																	"entities": {
+																					"urls": [], 
+																					"hashtags": [], 
+																					"user_mentions": [
+																										{
+																											"screen_name": "policia", 
+																											"id_str": "23791197", 
+																											"indices": [118, 126], 
+																											"id": 23791197, 
+																											"name": "Polic\u00eda Nacional"
+																										}, 
+																										{
+																											"screen_name": "guardiacivil", 
+																											"id_str": "295608887", 
+																											"indices": [127, 140], 
+																											"id": 295608887, 
+																											"name": "Guardia Civil"
+																										}
+																					], 
+																					"symbols": [], 
+																					"media": [
+																								{
+																									"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																									"indices": [141, 164], 
+																									"sizes": {
+																												"thumb": {
+																															"h": 150, 
+																															"w": 150, 
+																															"resize": "crop"
+																												}, 
+																												"medium": {
+																															"h": 576, 
+																															"w": 1024, 
+																															"resize": "fit"
+																												}, 
+																												"large": {
+																															"h": 576, 
+																															"w": 1024, 
+																															"resize": "fit"
+																												}, 
+																												"small": {
+																															"h": 383, 
+																															"w": 680, 
+																															"resize": "fit"
+																												}
+																									}, 
+																									"media_url": "http://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																									"type": "photo", 
+																									"display_url": "pic.twitter.com/BunTSD2prX", 
+																									"media_url_https": "https://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																									"url": "https://t.co/BunTSD2prX", 
+																									"id": 915580903556096000, 
+																									"id_str": "915580903556096000"
+																								}, 
+																								{
+																									"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																									"indices": [141, 164], 
+																									"sizes": {
+																												"large": {
+																															"h": 764, 
+																															"w": 1024, 
+																															"resize": "fit"
+																												}, 
+																												"medium": {
+																															"h": 764, 
+																															"w": 1024, 
+																															"resize": "fit"
+																												}, 
+																												"small": {
+																															"h": 507, 
+																															"w": 680, 
+																															"resize": "fit"
+																												}, 
+																												"thumb": {
+																															"h": 150, 
+																															"w": 150, 
+																															"resize": "crop"
+																												}
+																									}, 
+																									"media_url": "http://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																									"type": "photo", 
+																									"display_url": "pic.twitter.com/BunTSD2prX", 
+																									"media_url_https": "https://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																									"url": "https://t.co/BunTSD2prX", 
+																									"id": 915580903518240768, 
+																									"id_str": "915580903518240768"
+																								}, 
+																								{
+																									"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																									"indices": [141, 164], 
+																									"sizes": {
+																												"small": {
+																															"h": 509, 
+																															"w": 680, 
+																															"resize": "fit"
+																												}, 
+																												"medium": {
+																															"h": 766, 
+																															"w": 1024, 
+																															"resize": "fit"
+																												}, 
+																												"large": {
+																															"h": 766, 
+																															"w": 1024, 
+																															"resize": "fit"
+																												}, 
+																												"thumb": {
+																															"h": 150, 
+																															"w": 150, 
+																															"resize": "crop"
+																												}
+																									}, 
+																									"media_url": "http://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																									"type": "photo", 
+																									"display_url": "pic.twitter.com/BunTSD2prX", 
+																									"media_url_https": "https://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																									"url": "https://t.co/BunTSD2prX", 
+																									"id": 915580903518347264, 
+																									"id_str": "915580903518347264"
+																								}
+																					]
+																	}, 
+																	"full_text": "Expresando mi agradecimiento a los que defienden los derechos y libertades de todos los catalanes. Estamos orgullosos @policia @guardiacivil https://t.co/BunTSD2prX"
+												}, 
+												"in_reply_to_screen_name": null, 
+												"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+												"reply_count": 131, 
+												"coordinates": null, 
+												"retweeted": false, 
+												"id_str": "915580918789701632", 
+												"place": null, 
+												"favorited": false, 
+												"possibly_sensitive": false, 
+												"text": "Expresando mi agradecimiento a los que defienden los derechos y libertades de todos los catalanes. Estamos orgullos\u2026 https://t.co/Xoe80a6PaX", 
+												"contributors": null, 
+												"retweet_count": 70, 
+												"in_reply_to_user_id_str": null, 
+												"lang": "es", 
+												"truncated": true, 
+												"favorite_count": 151, 
+												"in_reply_to_status_id": null, 
+												"entities": {
+																"urls": [
+																			{
+																				"expanded_url": "https://twitter.com/i/web/status/915580918789701632", 
+																				"display_url": "twitter.com/i/web/status/9\u2026", 
+																				"indices": [117, 140], 
+																				"url": "https://t.co/Xoe80a6PaX"
+																			}
+																], 
+																"hashtags": [], 
+																"user_mentions": [], 
+																"symbols": []
+												}, 
+												"in_reply_to_user_id": null, 
+												"is_quote_status": false, 
+												"id": 915580918789701632, 
+												"quote_count": 13, 
+												"in_reply_to_status_id_str": null, 
+												"display_text_range": [0, 140], 
+												"filter_level": "low", 
+												"geo": null, 
+												"user": {
+															"description": "Delegat del Govern a Catalunya / Delegado del Gobierno en Catalu\u00f1a. Perfil Personal", 
+															"profile_link_color": "1DA1F2", 
+															"following": null, 
+															"name": "Enric Millo", 
+															"profile_sidebar_fill_color": "DDEEF6", 
+															"profile_sidebar_border_color": "C0DEED", 
+															"id_str": "261172776", 
+															"default_profile": true, 
+															"favourites_count": 1951, 
+															"notifications": null, 
+															"utc_offset": 7200, 
+															"profile_background_tile": false, 
+															"time_zone": "Madrid", 
+															"statuses_count": 9885, 
+															"translator_type": "none", 
+															"profile_banner_url": "https://pbs.twimg.com/profile_banners/261172776/1504810799", 
+															"profile_use_background_image": true, 
+															"is_translator": false, 
+															"lang": "es", 
+															"friends_count": 1457, 
+															"default_profile_image": false, 
+															"protected": false, 
+															"geo_enabled": true, 
+															"profile_image_url_https": "https://pbs.twimg.com/profile_images/899566276435206144/Hp15Ml6P_normal.jpg", 
+															"listed_count": 237, 
+															"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+															"url": "http://enricmillo.com", 
+															"id": 261172776, 
+															"profile_background_color": "C0DEED", 
+															"location": "Girona/Catalunya/Espa\u00f1a", 
+															"followers_count": 9556, 
+															"follow_request_sent": null, 
+															"profile_image_url": "http://pbs.twimg.com/profile_images/899566276435206144/Hp15Ml6P_normal.jpg", 
+															"screen_name": "EnricMillo", 
+															"profile_text_color": "333333", 
+															"created_at": "Sat Mar 05 11:47:36 +0000 2011", 
+															"verified": true, 
+															"contributors_enabled": false, 
+															"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png"
+												}, 
+												"created_at": "Wed Oct 04 14:14:36 +0000 2017"
+							}, 
+							"id": 915636166354972673, 
+							"quote_count": 2, 
+							"in_reply_to_status_id_str": null, 
+							"display_text_range": [0, 140], 
+							"filter_level": "low", 
+							"geo": null, 
+							"user": {
+										"description": "No importa el origen, sino el destino. S\u00famate al S\u00ed!", 
+										"profile_link_color": "0084B4", 
+										"following": null, 
+										"name": "S\u00famate", 
+										"profile_sidebar_fill_color": "DDEEF6", 
+										"profile_sidebar_border_color": "FFFFFF", 
+										"id_str": "1471778347", 
+										"default_profile": false, 
+										"favourites_count": 12052, 
+										"notifications": null, 
+										"utc_offset": 10800, 
+										"profile_background_tile": false, 
+										"time_zone": "Athens", 
+										"statuses_count": 12359, 
+										"translator_type": "none", 
+										"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471778347/1497980037", 
+										"profile_use_background_image": true, 
+										"is_translator": false, 
+										"lang": "ca", 
+										"friends_count": 3307, 
+										"default_profile_image": false, 
+										"protected": false, 
+										"geo_enabled": true, 
+										"profile_image_url_https": "https://pbs.twimg.com/profile_images/899396600379965440/k-Kg8_0F_normal.jpg", 
+										"listed_count": 431, 
+										"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120911326/97020b8bd5aadb7e075efe1045104b03.png", 
+										"url": "http://www.sumate.cat", 
+										"id": 1471778347, 
+										"profile_background_color": "FFFFFF", 
+										"location": "Catalu\u00f1a", 
+										"followers_count": 53043, 
+										"follow_request_sent": null, 
+										"profile_image_url": "http://pbs.twimg.com/profile_images/899396600379965440/k-Kg8_0F_normal.jpg", 
+										"screen_name": "sumate_asoc", 
+										"profile_text_color": "333333", 
+										"created_at": "Fri May 31 09:37:31 +0000 2013", 
+										"verified": false, 
+										"contributors_enabled": false, 
+										"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120911326/97020b8bd5aadb7e075efe1045104b03.png"
+							}, 
+							"is_quote_status": true, 
+							"created_at": "Wed Oct 04 17:54:08 +0000 2017", 
+							"retweet_count": 306
+	}, 
+	"in_reply_to_user_id_str": null, 
+	"lang": "es", 
+	"truncated": false, 
+	"quoted_status_id_str": "915580918789701632", 
+	"favorite_count": 0, 
+	"in_reply_to_status_id": null, 
+	"entities": {
+					"urls": [], 
+					"hashtags": [], 
+					"user_mentions": [
+										{
+											"screen_name": "sumate_asoc", 
+											"id_str": "1471778347", 
+											"indices": [3, 15], 
+											"id": 1471778347, 
+											"name": "S\u00famate"
+										}, 
+										{
+											"screen_name": "policia", 
+											"id_str": "23791197", 
+											"indices": [58, 66], 
+											"id": 23791197, 
+											"name": "Polic\u00eda Nacional"
+										}, 
+										{
+											"screen_name": "guardiacivil", 
+											"id_str": "295608887", 
+											"indices": [69, 82], 
+											"id": 295608887, 
+											"name": "Guardia Civil"
+										}
+					], 
+					"symbols": []
+	}, 
+	"in_reply_to_user_id": null, 
+	"quoted_status": {
+						"extended_tweet": {
+											"extended_entities": {
+																	"media": [
+																				{
+																					"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																					"indices": [141, 164], 
+																					"sizes": {
+																								"thumb": {
+																											"h": 150, 
+																											"w": 150, 
+																											"resize": "crop"
+																								}, 
+																								"medium": {
+																											"h": 576, 
+																											"w": 1024, 
+																											"resize": "fit"
+																								}, 
+																								"large": {
+																											"h": 576, 
+																											"w": 1024, 
+																											"resize": "fit"
+																								}, 
+																								"small": {
+																											"h": 383, 
+																											"w": 680, 
+																											"resize": "fit"
+																								}
+																					}, 
+																					"media_url": "http://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																					"type": "photo", 
+																					"display_url": "pic.twitter.com/BunTSD2prX", 
+																					"media_url_https": "https://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																					"url": "https://t.co/BunTSD2prX", 
+																					"id": 915580903556096000, 
+																					"id_str": "915580903556096000"
+																				}, 
+																				{
+																					"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																					"indices": [141, 164], 
+																					"sizes": {
+																								"large": {
+																											"h": 764, 
+																											"w": 1024, 
+																											"resize": "fit"
+																								}, 
+																								"medium": {
+																											"h": 764, 
+																											"w": 1024, 
+																											"resize": "fit"
+																								}, 
+																								"small": {
+																											"h": 507, 
+																											"w": 680, 
+																											"resize": "fit"
+																								}, 
+																								"thumb": {
+																											"h": 150, 
+																											"w": 150, 
+																											"resize": "crop"
+																								}
+																					}, 
+																					"media_url": "http://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																					"type": "photo", 
+																					"display_url": "pic.twitter.com/BunTSD2prX", 
+																					"media_url_https": "https://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																					"url": "https://t.co/BunTSD2prX", 
+																					"id": 915580903518240768, 
+																					"id_str": "915580903518240768"
+																				}, 
+																				{
+																					"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																					"indices": [141, 164], 
+																					"sizes": {
+																								"small": {
+																											"h": 509, 
+																											"w": 680, 
+																											"resize": "fit"
+																								}, 
+																								"medium": {
+																											"h": 766, 
+																											"w": 1024, 
+																											"resize": "fit"
+																								}, 
+																								"large": {
+																											"h": 766, 
+																											"w": 1024, 
+																											"resize": "fit"
+																								}, 
+																								"thumb": {
+																											"h": 150, 
+																											"w": 150, 
+																											"resize": "crop"
+																								}
+																					}, 
+																					"media_url": "http://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																					"type": "photo", 
+																					"display_url": "pic.twitter.com/BunTSD2prX", 
+																					"media_url_https": "https://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																					"url": "https://t.co/BunTSD2prX", 
+																					"id": 915580903518347264, 
+																					"id_str": "915580903518347264"
+																				}
+																	]
+											}, 
+											"display_text_range": [0, 140], 
+											"entities": {
+															"urls": [], 
+															"hashtags": [], 
+															"user_mentions": [
+																				{
+																					"screen_name": "policia", 
+																					"id_str": "23791197", 
+																					"indices": [118, 126], 
+																					"id": 23791197, 
+																					"name": "Polic\u00eda Nacional"
+																				}, 
+																				{
+																					"screen_name": "guardiacivil", 
+																					"id_str": "295608887", 
+																					"indices": [127, 140], 
+																					"id": 295608887, 
+																					"name": "Guardia Civil"
+																				}
+															], 
+															"symbols": [], 
+															"media": [
+																		{
+																			"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																			"indices": [141, 164], 
+																			"sizes": {
+																						"thumb": {
+																									"h": 150, 
+																									"w": 150, 
+																									"resize": "crop"
+																						}, 
+																						"medium": {
+																									"h": 576, 
+																									"w": 1024, 
+																									"resize": "fit"
+																						}, 
+																						"large": {
+																									"h": 576, 
+																									"w": 1024, 
+																									"resize": "fit"
+																						}, 
+																						"small": {
+																									"h": 383, 
+																									"w": 680, 
+																									"resize": "fit"
+																						}
+																					}, 
+																					"media_url": "http://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																					"type": "photo", 
+																					"display_url": "pic.twitter.com/BunTSD2prX", 
+																					"media_url_https": "https://pbs.twimg.com/media/DLTL-xeXoAAmAY7.jpg", 
+																					"url": "https://t.co/BunTSD2prX", 
+																					"id": 915580903556096000, 
+																					"id_str": "915580903556096000"
+																		}, 
+																		{
+																			"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																			"indices": [141, 164], 
+																			"sizes": {
+																						"large": {
+																									"h": 764, 
+																									"w": 1024, 
+																									"resize": "fit"
+																						}, 
+																						"medium": {
+																									"h": 764, 
+																									"w": 1024, 
+																									"resize": "fit"
+																						}, 
+																						"small": {
+																									"h": 507, 
+																									"w": 680, 
+																									"resize": "fit"
+																						}, 
+																						"thumb": {
+																									"h": 150, 
+																									"w": 150, 
+																									"resize": "crop"
+																						}
+																			}, 
+																			"media_url": "http://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																			"type": "photo", 
+																			"display_url": "pic.twitter.com/BunTSD2prX", 
+																			"media_url_https": "https://pbs.twimg.com/media/DLTL-xVWAAA_uYZ.jpg", 
+																			"url": "https://t.co/BunTSD2prX", 
+																			"id": 915580903518240768, 
+																			"id_str": "915580903518240768"
+																		}, 
+																		{
+																			"expanded_url": "https://twitter.com/EnricMillo/status/915580918789701632/photo/1", 
+																			"indices": [141, 164], 
+																			"sizes": {
+																						"small": {
+																									"h": 509, 
+																									"w": 680, 
+																									"resize": "fit"
+																						}, 
+																						"medium": {
+																									"h": 766, 
+																									"w": 1024, 
+																									"resize": "fit"
+																						}, 
+																						"large": {
+																									"h": 766, 
+																									"w": 1024, 
+																									"resize": "fit"
+																						}, 
+																						"thumb": {
+																									"h": 150, 
+																									"w": 150, 
+																									"resize": "crop"
+																						}
+																			}, 
+																			"media_url": "http://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																			"type": "photo", 
+																			"display_url": "pic.twitter.com/BunTSD2prX", 
+																			"media_url_https": "https://pbs.twimg.com/media/DLTL-xVXoAA4gti.jpg", 
+																			"url": "https://t.co/BunTSD2prX", 
+																			"id": 915580903518347264, 
+																			"id_str": "915580903518347264"
+																		}
+															]
+											}, 
+											"full_text": "Expresando mi agradecimiento a los que defienden los derechos y libertades de todos los catalanes. Estamos orgullosos @policia @guardiacivil https://t.co/BunTSD2prX"
+						}, 
+						"in_reply_to_screen_name": null, 
+						"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+						"reply_count": 131, 
+						"coordinates": null, 
+						"retweeted": false, 
+						"id_str": "915580918789701632", 
+						"place": null, 
+						"favorited": false, 
+						"possibly_sensitive": false, 
+						"text": "Expresando mi agradecimiento a los que defienden los derechos y libertades de todos los catalanes. Estamos orgullos\u2026 https://t.co/Xoe80a6PaX", 
+						"contributors": null, 
+						"retweet_count": 70, 
+						"in_reply_to_user_id_str": null, 
+						"lang": "es", 
+						"truncated": true, 
+						"favorite_count": 151, 
+						"in_reply_to_status_id": null, 
+						"entities": {
+										"urls": [
+													{
+														"expanded_url": "https://twitter.com/i/web/status/915580918789701632", 
+														"display_url": "twitter.com/i/web/status/9\u2026", 
+														"indices": [117, 140], 
+														"url": "https://t.co/Xoe80a6PaX"
+													}
+										], 
+										"hashtags": [], 
+										"user_mentions": [], 
+										"symbols": []
+						}, 
+						"in_reply_to_user_id": null, 
+						"is_quote_status": false, 
+						"id": 915580918789701632, 
+						"quote_count": 13, 
+						"in_reply_to_status_id_str": null, 
+						"display_text_range": [0, 140], 
+						"filter_level": "low", 
+						"geo": null, 
+						"user": {
+									"description": "Delegat del Govern a Catalunya / Delegado del Gobierno en Catalu\u00f1a. Perfil Personal", 
+									"profile_link_color": "1DA1F2", 
+									"following": null, 
+									"name": "Enric Millo", 
+									"profile_sidebar_fill_color": "DDEEF6", 
+									"profile_sidebar_border_color": "C0DEED", 
+									"id_str": "261172776", 
+									"default_profile": true, 
+									"favourites_count": 1951, 
+									"notifications": null, 
+									"utc_offset": 7200, 
+									"profile_background_tile": false, 
+									"time_zone": "Madrid", 
+									"statuses_count": 9885, 
+									"translator_type": "none", 
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/261172776/1504810799", 
+									"profile_use_background_image": true, 
+									"is_translator": false, 
+									"lang": "es", 
+									"friends_count": 1457, 
+									"default_profile_image": false, 
+									"protected": false, 
+									"geo_enabled": true, 
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/899566276435206144/Hp15Ml6P_normal.jpg", 
+									"listed_count": 237, 
+									"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+									"url": "http://enricmillo.com", 
+									"id": 261172776, 
+									"profile_background_color": "C0DEED", 
+									"location": "Girona/Catalunya/Espa\u00f1a", 
+									"followers_count": 9556, 
+									"follow_request_sent": null, 
+									"profile_image_url": "http://pbs.twimg.com/profile_images/899566276435206144/Hp15Ml6P_normal.jpg", 
+									"screen_name": "EnricMillo", 
+									"profile_text_color": "333333", 
+									"created_at": "Sat Mar 05 11:47:36 +0000 2011", 
+									"verified": true, 
+									"contributors_enabled": false, 
+									"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png"
+						}, 
+						"created_at": "Wed Oct 04 14:14:36 +0000 2017"
+	}, 
+	"id": 915668126817292288, 
+	"quote_count": 0, 
+	"in_reply_to_status_id_str": null, 
+	"timestamp_ms": "1507147268381", 
+	"filter_level": "low", 
+	"geo": null, 
+	"user": {
+				"description": "Llobregatenc, Barcelon\u00ed, Catalanista i Europeista.#gesti\u00f3comercial #m\u00e0rqueting #log\u00edstica #pol\u00edtica", 
+				"profile_link_color": "1DA1F2", 
+				"following": null, 
+				"name": "Jordi Bernal", 
+				"profile_sidebar_fill_color": "DDEEF6", 
+				"profile_sidebar_border_color": "C0DEED", 
+				"id_str": "451548571", 
+				"default_profile": true, 
+				"favourites_count": 1078, 
+				"notifications": null, 
+				"utc_offset": 3600, 
+				"profile_background_tile": false, 
+				"time_zone": "London", 
+				"statuses_count": 8775, 
+				"translator_type": "none", 
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/451548571/1408618164", 
+				"profile_use_background_image": true, 
+				"is_translator": false, 
+				"lang": "es", 
+				"friends_count": 1008, 
+				"default_profile_image": false, 
+				"protected": false, 
+				"geo_enabled": true, 
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697129740206006272/hk9bNM8R_normal.jpg", 
+				"listed_count": 30, 
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+				"url": null, 
+				"id": 451548571, 
+				"profile_background_color": "C0DEED", 
+				"location": "Barcelona", 
+				"followers_count": 805, 
+				"follow_request_sent": null, 
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697129740206006272/hk9bNM8R_normal.jpg", 
+				"screen_name": "JordiBS_", 
+				"profile_text_color": "333333", 
+				"created_at": "Sat Dec 31 17:21:52 +0000 2011", 
+				"verified": false, 
+				"contributors_enabled": false, 
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png"
+	}, 
+	"is_quote_status": true, 
+	"created_at": "Wed Oct 04 20:01:08 +0000 2017", 
+	"retweet_count": 0
+}
